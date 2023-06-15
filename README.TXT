@@ -17,7 +17,7 @@ Maven: A build automation tool for managing project dependencies and creating ex
 Getting Started
 To get started with the Student Management System, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/student-management-system.git
+Clone the repository: https://github.com/Abelman0/Javafx-Group-Work
 Install Java JDK and Maven if not already installed.
 Set up the MySQL database and configure the connection details in the application.
 Build the project using Maven: mvn clean install
@@ -46,6 +46,7 @@ License
 The Student Management System is open-source software licensed under the MIT License.
 
 Contact
-If you have any questions or suggestions regarding the Student Management System, please feel free to contact us at Nigistgenene@gmail.com.
+If you have any questions or suggestions regarding the Student Management System, please feel free to contact us at 
+nigistgenene1991@gmail.com.
 
 Feel free to customize this template according to your specific Student Management System and its features. Provide additional sections or information that may be relevant to your project.
